@@ -1,0 +1,11 @@
+C:\Users\Игорь\source\repos\Cooking\Cooking\bin\Debug\Cooking.exe.config
+C:\Users\Игорь\source\repos\Cooking\Cooking\bin\Debug\Cooking.exe
+C:\Users\Игорь\source\repos\Cooking\Cooking\bin\Debug\Cooking.pdb
+C:\Users\Игорь\source\repos\Cooking\Cooking\obj\Debug\Cooking.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\Cooking\Cooking\obj\Debug\Cooking.Form1.resources
+C:\Users\Игорь\source\repos\Cooking\Cooking\obj\Debug\Cooking.Properties.Resources.resources
+C:\Users\Игорь\source\repos\Cooking\Cooking\obj\Debug\Cooking.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\Cooking\Cooking\obj\Debug\Cooking.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\Cooking\Cooking\obj\Debug\Cooking.exe
+C:\Users\Игорь\source\repos\Cooking\Cooking\obj\Debug\Cooking.pdb
+C:\Users\Игорь\source\repos\Cooking\Cooking\obj\Debug\Cooking.Form2.resources
