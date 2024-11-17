@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Igor\\Documents\\\u0427\u041C\u0418\\Lab3 1711 2001\\\u041B\u0430\u04313\\\u041A\u0443\u043B\u0438\u043D\u0430\u0440\u0438\u044F\\Cooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE0B978-0685-41CB-8F56-6285C68B3772}|Cooking\\Cooking.csproj|c:\\users\\igor\\documents\\\u0447\u043C\u0438\\lab3 1711 2001\\\u043B\u0430\u04313\\\u043A\u0443\u043B\u0438\u043D\u0430\u0440\u0438\u044F\\cooking\\cooking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE0B978-0685-41CB-8F56-6285C68B3772}|Cooking\\Cooking.csproj|solutionrelative:cooking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE0B978-0685-41CB-8F56-6285C68B3772}|Cooking\\Cooking.csproj|C:\\Users\\Igor\\Documents\\\u0427\u041C\u0418\\Lab3 1711 2001\\\u041B\u0430\u04313\\\u041A\u0443\u043B\u0438\u043D\u0430\u0440\u0438\u044F\\Cooking\\Cooking\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE0B978-0685-41CB-8F56-6285C68B3772}|Cooking\\Cooking.csproj|solutionrelative:Cooking\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE0B978-0685-41CB-8F56-6285C68B3772}|Cooking\\Cooking.csproj|C:\\Users\\Igor\\Documents\\\u0427\u041C\u0418\\Lab3 1711 2001\\\u041B\u0430\u04313\\\u041A\u0443\u043B\u0438\u043D\u0430\u0440\u0438\u044F\\Cooking\\cooking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CE0B978-0685-41CB-8F56-6285C68B3772}|Cooking\\Cooking.csproj|solutionrelative:cooking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Documents\\\u0427\u041C\u0418\\Lab3 1711 2001\\\u041B\u0430\u04313\\\u041A\u0443\u043B\u0438\u043D\u0430\u0440\u0438\u044F\\Cooking\\Cooking\\Program.cs",
+              "RelativeDocumentMoniker": "Cooking\\Program.cs",
+              "ToolTip": "C:\\Users\\Igor\\Documents\\\u0427\u041C\u0418\\Lab3 1711 2001\\\u041B\u0430\u04313\\\u041A\u0443\u043B\u0438\u043D\u0430\u0440\u0438\u044F\\Cooking\\Cooking\\Program.cs",
+              "RelativeToolTip": "Cooking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:06:04.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Igor\\Documents\\\u0427\u041C\u0418\\Lab3 1711 2001\\\u041B\u0430\u04313\\\u041A\u0443\u043B\u0438\u043D\u0430\u0440\u0438\u044F\\Cooking\\Cooking\\Form1.cs",
+              "RelativeDocumentMoniker": "Cooking\\Form1.cs",
+              "ToolTip": "C:\\Users\\Igor\\Documents\\\u0427\u041C\u0418\\Lab3 1711 2001\\\u041B\u0430\u04313\\\u041A\u0443\u043B\u0438\u043D\u0430\u0440\u0438\u044F\\Cooking\\Cooking\\Form1.cs [Design]",
+              "RelativeToolTip": "Cooking\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:06:05.653Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Documents\\\u0427\u041C\u0418\\Lab3 1711 2001\\\u041B\u0430\u04313\\\u041A\u0443\u043B\u0438\u043D\u0430\u0440\u0438\u044F\\Cooking\\Cooking\\Form1.cs",
+              "RelativeDocumentMoniker": "Cooking\\Form1.cs",
+              "ToolTip": "C:\\Users\\Igor\\Documents\\\u0427\u041C\u0418\\Lab3 1711 2001\\\u041B\u0430\u04313\\\u041A\u0443\u043B\u0438\u043D\u0430\u0440\u0438\u044F\\Cooking\\Cooking\\Form1.cs",
+              "RelativeToolTip": "Cooking\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAIBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:06:05.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
